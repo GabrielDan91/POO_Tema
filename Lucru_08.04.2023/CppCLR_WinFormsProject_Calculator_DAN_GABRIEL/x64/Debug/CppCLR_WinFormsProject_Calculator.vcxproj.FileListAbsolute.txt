@@ -1,0 +1,5 @@
+C:\Users\gabid\source\repos\CppCLR_WinFormsProject_Calculator\x64\Debug\CppCLR_WinFormsProject_Calculator.vcxproj.AssemblyReference.cache
+C:\Users\gabid\source\repos\CppCLR_WinFormsProject_Calculator\x64\Debug\CppCLR_WinFormsProject_Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\gabid\source\repos\CppCLR_WinFormsProject_Calculator\x64\Debug\CppCLR_WinFormsProject_Calculator.Form1.resources
+C:\Users\gabid\source\repos\CppCLR_WinFormsProject_Calculator\x64\Debug\CppCLR_WinFormsProject_Calculator.vcxproj.GenerateResource.cache
+C:\Users\gabid\source\repos\CppCLR_WinFormsProject_Calculator\x64\Debug\CppCLR_WinFormsProject_Calculator.exe

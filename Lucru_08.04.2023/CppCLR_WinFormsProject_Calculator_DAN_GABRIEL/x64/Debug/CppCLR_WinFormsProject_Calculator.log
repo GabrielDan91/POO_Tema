@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\gabid\source\repos\CppCLR_WinFormsProject_Calculator_DAN_GABRIEL\CppCLR_WinFormsProject.cpp(13,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Form1.cpp
+  Generating Code...
