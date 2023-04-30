@@ -1,0 +1,3 @@
+C:\Users\gabid\source\repos\CreditCardAccount\x64\Debug\CreditCardAccount.vcxproj.AssemblyReference.cache
+C:\Users\gabid\source\repos\CreditCardAccount\x64\Debug\CreditCardAccount.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\gabid\source\repos\CreditCardAccount\x64\Debug\CreditCardAccount.exe
